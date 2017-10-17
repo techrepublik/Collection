@@ -1,0 +1,13 @@
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\CollectionSystem.exe.config
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\CollectionSystem.exe
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\CollectionSystem.pdb
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\EntityFramework.dll
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\EntityFramework.xml
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.MainForm.resources
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.Properties.Resources.resources
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.csproj.GenerateResource.Cache
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.exe
+C:\Users\josh\Documents\GitHub\CollectionSystem\CollectionSystem\obj\Debug\CollectionSystem.pdb
